@@ -5,4 +5,4 @@ student_info = {
     "school" : "University of Ghana"
 }
 for x in student_info:
-    print(student_info[x])
+    print(x)
